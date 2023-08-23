@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[81],{3081:function(e,n,r){r.r(n),r.d(n,{default:function(){return p}});var u=r(3396);function a(e,n,r,a,t,f){return(0,u.wg)(),(0,u.iD)("h2",null,"Profile page")}var t={name:"ProfileView"},f=r(89);const i=(0,f.Z)(t,[["render",a]]);var p=i}}]);
+//# sourceMappingURL=81.301b0e38.js.map
